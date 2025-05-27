@@ -47,8 +47,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/korearn/leonardoleon/output/github-snake.svg" />
 </picture>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/korearn/korearn/output/snake.svg" alt="Snake animation" />
-
 ###
