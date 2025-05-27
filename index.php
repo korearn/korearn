@@ -1,3 +1,3 @@
 <?php 
-echo "te quiero <3";
+echo "Hello World :)";
 ?>
