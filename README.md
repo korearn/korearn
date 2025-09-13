@@ -77,7 +77,7 @@ Infrastructure as Code for cloud resources
 
 ## 📊 GitHub Metrics
 <div align="center">
-  <img src="https://metrics.lecoq.io/korearn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FMexico_City" alt="GitHub metrics" />
+  <img src="https://metrics.lecoq.io/korearn?template=classic&isocalendar=1&languages=1&followup=1&people=1&isocalendar.duration=half-year&config.timezone=America%2FMexico_City" alt="GitHub metrics" width="100%" />
 </div>
 
 ## 📫 Let's Connect
@@ -95,8 +95,4 @@ Infrastructure as Code for cloud resources
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/korearn/korearn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/korearn/korearn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/korearn/korearn/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/korearn/korearn/output/snake.svg" alt="Snake animation" />
