@@ -1,5 +1,5 @@
 <h2 align="left">Leonardo León 👨‍💻</h2>
-<h3 align="left">DevOps Enthusiast | Automation Specialist | Cloud Learner</h3>
+<h3 align="left">DevOps Engineer | SRE | Cloud Infrastructure Specialist</h3>
 
 ###
 
@@ -11,7 +11,31 @@
 
 ###
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Featured Projects
+
+### [SRE Learning Path](https://github.com/korearn/sre-learning-path)
+**Production-ready log analyzer with full DevOps pipeline**
+`Kubernetes` `Docker` `Helm` `Python` `Flask` `Terraform`
+- Containerized application with health checks and auto-scaling
+- Helm charts for Kubernetes deployment management
+- REST API with real-time log analysis capabilities
+- Infrastructure as Code with Terraform
+
+### [Terraform Kubernetes Infrastructure](https://github.com/korearn/terraform-learning)
+**Infrastructure as Code for cloud-native applications**
+`Terraform` `Kubernetes` `IaC` `Automation`
+- Automated namespace, deployment, and config management
+- Modular and reusable infrastructure templates
+- Kubernetes resource provisioning as code
+
+### [SQL Database Practice](https://github.com/korearn/sql-practice)
+**Database management and query optimization**
+`SQL` `SQLite` `Database Design` `Query Optimization`
+- Complex queries with JOINs and aggregations
+- Database schema design and normalization
+- Performance optimization techniques
+
+## 🛠️ Technical Stack
 
 ### 🔧 DevOps & Cloud
 <div align="left">
@@ -19,30 +43,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" alt="helm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
 </div>
 
 ### 💻 Programming & Scripting
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ### 🗄️ Databases & Infrastructure
@@ -51,31 +71,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-## 📈 Current Learning Path
-- **Containerization**: Docker & Kubernetes
-- **Cloud Infrastructure**: AWS & Azure
-- **IaC**: Terraform & Ansible
-- **CI/CD**: Jenkins & GitLab CI
-- **Monitoring**: Prometheus & Grafana
+## 📈 Current Focus
+- **Container Orchestration**: Kubernetes advanced patterns
+- **Infrastructure as Code**: Terraform modules and state management
+- **CI/CD Pipelines**: GitHub Actions and automation
+- **Monitoring & Observability**: Prometheus, Grafana, health checks
 
-## 🔥 Recent Projects
-### 🐳 [Dockerized Web App](https://github.com/korearn/docker-web-app)
-Containerized Python application with CI/CD pipeline
-
-### ☸️ [Kubernetes Learning](https://github.com/korearn/kubernetes-setup) 
-Minikube cluster configurations and deployments
-
-### 🏗️ [Terraform AWS Infrastructure](https://github.com/korearn/terraform-aws)
-Infrastructure as Code for cloud resources
-
-## 📊 GitHub Metrics
+## 📊 GitHub Activity
 <div align="center">
   <img src="https://metrics.lecoq.io/korearn?template=classic&isocalendar=1&languages=1&followup=1&people=1&isocalendar.duration=half-year&config.timezone=America%2FMexico_City" alt="GitHub metrics" width="100%" />
 </div>
@@ -85,14 +94,7 @@ Infrastructure as Code for cloud resources
   <a href="https://www.linkedin.com/in/leonardoleonh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:leo.lglh@gmail.com" target="_blank">
+  <a href="mailto:leo.dleon55@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/users/509218745823264769" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/korearn/korearn/output/snake.svg" alt="Snake animation" />
