@@ -85,9 +85,13 @@
 - **Monitoring & Observability**: Prometheus, Grafana, health checks
 
 ## 📊 GitHub Activity
-<div align="center">
-  <img src="https://metrics.lecoq.io/korearn?template=classic&isocalendar=1&languages=1&followup=1&people=1&isocalendar.duration=half-year&config.timezone=America%2FMexico_City" alt="GitHub metrics" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/korearn/leonardoleon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/korearn/leonardoleon/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/korearn/leonardoleon/output/github-snake.svg" />
+</picture>
+
+<br clear="both">
 
 ## 📫 Let's Connect
 <div align="left">
