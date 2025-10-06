@@ -1,5 +1,5 @@
 <h2 align="left">Leonardo León 👨‍💻</h2>
-<h3 align="left">DevOps Engineer | SRE | Cloud Infrastructure Specialist</h3>
+<h3 align="left">IT Engineer | DevOps | SRE | Cloud </h3>
 
 ###
 
