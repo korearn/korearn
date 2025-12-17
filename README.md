@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Projects & Learning Path
 
-### [🐍 Python Zero to Hero (Portfolio)](https://github.com/korearn/nombre-de-tu-repo-python)
+### [🐍 Python Zero to Hero (Portfolio)](https://github.com/korearn/python-zero-to-hero)
 **Documenting my structured journey to Python mastery**
 `Python 3` `Algorithms` `Data Structures` `OOP`
 - Structured implementation of core concepts (Pareto Principle).
