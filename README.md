@@ -31,11 +31,18 @@
 - Bash script with pre-flight checks, logging and exit codes
 - Configurable as a daily cron job for fully automated execution
 
+### ✅ [Exchange Rate Microservice](https://github.com/korearn/exchange-rate-api)
+**REST API for real-time currency conversion with caching and fallback**
+`Python` `FastAPI` `SQLite` `Pydantic` `Docker` `Uvicorn`
+- 5 REST endpoints with automatic Swagger documentation via FastAPI
+- SQLite cache with configurable TTL to reduce external API calls
+- Automatic fallback rates when Frankfurter API is unavailable
+- Dockerfile included for portable containerized deployment
+
 ### 🔄 Coming soon
 | Project | Stack | Status |
 |---|---|---|
-| Exchange Rate Microservice | Python · FastAPI · SQLite · Docker | Next |
-| Infrastructure Monitor with AI | Python · Bash · SQLite · LMStudio | Planned |
+| Infrastructure Monitor with AI | Python · Bash · SQLite · LMStudio | Next |
 | Automated ETL Pipeline | Python · PostgreSQL · Cron · APIs | Planned |
 | Credit Scoring API | Python · FastAPI · ML · LMStudio | Planned |
 | Fraud Detection System | Python · ML · FastAPI · LMStudio | Planned |
