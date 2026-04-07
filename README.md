@@ -3,6 +3,7 @@
 
 <p align="left">
   <em>Building production-grade financial tools and automation systems — one project at a time.</em>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -13,15 +14,14 @@
   <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
 <p align="center">
-  <img src="github-stats.svg" height="150" alt="stats graph" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=korearn&theme=dracula" height="150" alt="streak graph" />
-  
-  <img src="top-langs.svg" height="150" alt="languages graph" />
 </p>
 
----
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" style="max-width: 100%; height: auto;" />
+</p>
 
 ## 🏦 Fintech & Banking Portfolio
 
