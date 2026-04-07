@@ -28,3 +28,9 @@ jobs:
           # Sección de racha e IA (puedes añadir más plugins luego)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # Tamaño y display
+          config_display: large
+          config_padding: 0, 8%
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
