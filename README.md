@@ -3,25 +3,22 @@
 
 <p align="left">
   <em>Building production-grade financial tools and automation systems — one project at a time.</em>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/AI_&_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/PSUtil-5C6BC0?style=for-the-badge&logo=python&logoColor=white" title="Para monitorización de infra" />
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/korearn/korearn/main/github-stats.svg" alt="Resumen de actividad de GitHub" />
-<img src="https://raw.githubusercontent.com/korearn/korearn/main/github-streak.svg" alt="Racha de contribuciones" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=korearn&show_icons=true&theme=dracula&locale=en" height="150" alt="stats graph" />
+  <img src="github-stats.svg" height="150" alt="stats graph" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=korearn&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs?username=korearn&layout=compact&theme=dracula&hide_border=false&exclude_repo=linux,arch-config" height="150" alt="languages graph" />
+  
+  <img src="top-langs.svg" height="150" alt="languages graph" />
 </p>
 
 ---
