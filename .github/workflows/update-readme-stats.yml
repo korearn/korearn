@@ -1,0 +1,38 @@
+name: GitHub README Stats Generation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Metrics
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: GitHub Readme Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: ${{ github.repository_owner }}
+          theme: dracula
+          show_icons: true
+
+      - name: GitHub Readme Streak Stats
+        # Usamos 'main' porque denvercoder1 cambió su rama master a main
+        uses: denvercoder1/github-readme-streak-stats@main
+        with:
+          user: ${{ github.repository_owner }}
+          theme: dracula
+
+      - name: Commit & Push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          # Agregamos también top-langs.svg por si acaso
+          git add github-stats.svg github-streak.svg top-langs.svg
+          git commit -m "Update GitHub Stats SVGs" || echo "No changes to commit"
+          git push
