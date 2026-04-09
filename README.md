@@ -49,12 +49,26 @@
 - Automatic fallback rates when Frankfurter API is unavailable
 - Dockerfile included for portable containerized deployment
 
+### ✅ [Infra Monitor — Infrastructure Monitor with AI](https://github.com/korearn/infra-monitor)
+**Real-time system monitoring daemon with LLM-powered diagnostics**
+`Python` `psutil` `Bash` `SQLite` `LMStudio` `Rich`
+- Monitors CPU, RAM, disk and network every N seconds (configurable)
+- Detects anomalies against configurable thresholds with cooldown pattern
+- Generates natural language diagnostics using a local LLM via LMStudio
+- Bash scripts for daemon control (start/stop/status) with PID management
+
+### ✅ [ETL Pipeline — Financial & Weather Data](https://github.com/korearn/etl-pipeline)
+**Automated ETL pipeline extracting financial and climate data into PostgreSQL**
+`Python` `PostgreSQL` `Pandas` `Frankfurter API` `Open-Meteo API` `Bash` `Cron`
+- Extracts historical exchange rates and weather data from free public APIs
+- Transforms and cross-joins both sources into a unified daily summary table
+- Idempotent upsert pattern — safe to run multiple times without duplicates
+- Structured logging with timestamps and daily cron job automation
+
 ### 🔄 Coming soon
 | Project | Stack | Status |
 |---|---|---|
-| Infrastructure Monitor with AI | Python · Bash · SQLite · LMStudio | Next |
-| Automated ETL Pipeline | Python · PostgreSQL · Cron · APIs | Planned |
-| Credit Scoring API | Python · FastAPI · ML · LMStudio | Planned |
+| Credit Scoring API | Python · FastAPI · ML · LMStudio | Next |
 | Fraud Detection System | Python · ML · FastAPI · LMStudio | Planned |
 | Financial RAG Assistant | Python · ChromaDB · LMStudio · RAG | Planned |
 
