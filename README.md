@@ -65,12 +65,18 @@
 - Idempotent upsert pattern — safe to run multiple times without duplicates
 - Structured logging with timestamps and daily cron job automation
 
+### ✅ [Credit Scoring API](https://github.com/korearn/credit-scoring-api)
+**ML-powered credit scoring with AI-generated explanations**
+`Python` `FastAPI` `scikit-learn` `SQLite` `LMStudio` `Pydantic`
+- Random Forest model trained on 5,000 synthetic profiles to predict default probability
+- Converts default probability to 300-850 credit score scale with risk categorization
+- Local LLM generates personalized natural language explanations for each decision
+- Full audit trail in SQLite — every scoring decision logged for regulatory compliance
+
 ### 🔄 Coming soon
 | Project | Stack | Status |
 |---|---|---|
-| Credit Scoring API | Python · FastAPI · ML · LMStudio | Next |
-| Fraud Detection System | Python · ML · FastAPI · LMStudio | Planned |
-| Financial RAG Assistant | Python · ChromaDB · LMStudio · RAG | Planned |
+| Financial RAG Assistant | Python · ChromaDB · LMStudio · RAG | Next |
 
 ---
 
