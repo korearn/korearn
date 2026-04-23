@@ -25,7 +25,19 @@
 
 ## 🏦 Fintech & Banking Portfolio
 
-> A structured series of production-inspired projects targeting Backend, DevOps, and AI roles in financial environments.
+> A structured series of 8 production-inspired projects targeting Backend, DevOps, and AI roles in financial environments.
+
+| # | Project | Stack | Highlights |
+|---|---------|-------|------------|
+| 1 | [TX-Classifier](https://github.com/korearn/tx-classifier) | Python · SQLite · LMStudio | NLP transaction categorization |
+| 2 | [Bank Reconciliation](https://github.com/korearn/bank-reconciliation) | Python · Pandas · Bash | Automated discrepancy detection |
+| 3 | [Exchange Rate API](https://github.com/korearn/exchange-rate-api) | FastAPI · SQLite · Docker | REST microservice with cache |
+| 4 | [Infra Monitor](https://github.com/korearn/infra-monitor) | psutil · Bash · LMStudio | AI-powered system monitoring |
+| 5 | [ETL Pipeline](https://github.com/korearn/etl-pipeline) | PostgreSQL · Pandas · Cron | Financial & weather data pipeline |
+| 6 | [Credit Scoring API](https://github.com/korearn/credit-scoring-api) | scikit-learn · FastAPI · LMStudio | ML scoring with XAI |
+| 7 | [Financial RAG Assistant](https://github.com/korearn/financial-rag) | ChromaDB · sentence-transformers · LMStudio | Document Q&A with RAG |
+
+---
 
 ### ✅ [TX-Classifier — Transaction Classifier](https://github.com/korearn/tx-classifier)
 **Automatic NLP-based bank transaction categorization using local LLMs**
@@ -73,10 +85,13 @@
 - Local LLM generates personalized natural language explanations for each decision
 - Full audit trail in SQLite — every scoring decision logged for regulatory compliance
 
-### 🔄 Coming soon
-| Project | Stack | Status |
-|---|---|---|
-| Financial RAG Assistant | Python · ChromaDB · LMStudio · RAG | Next |
+### ✅ [Financial RAG Assistant](https://github.com/korearn/financial-rag)
+**Document Q&A system using RAG with local embeddings and LLM**
+`Python` `FastAPI` `ChromaDB` `sentence-transformers` `LMStudio` `pypdf`
+- Indexes financial PDF documents into ChromaDB as semantic vector embeddings
+- Retrieves relevant fragments by semantic similarity, not keyword matching
+- Generates answers using a local LLM grounded exclusively in your documents
+- Supports multilingual queries — automatically detects question language
 
 ---
 
