@@ -3,6 +3,13 @@
 
 <p align="left">
   <em>Building production-grade financial tools and automation systems — one project at a time.</em>
+</p>
+
+<p align="left">
+  <a href="https://ko-fi.com/leoleon_" target="_blank">
+    <img src="https://img.shields.io/badge/Support_my_work-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-26408B?style=for-the-badge&logo=python&logoColor=white" />
@@ -188,5 +195,8 @@
   </a>
   <a href="mailto:leo.dleon55@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  <a href="https://ko-fi.com/leoleon_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=kofi&label=Support&color=FF5E5B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi" />
   </a>
 </div>
