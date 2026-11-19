@@ -57,6 +57,6 @@ Guitar, bedroom music production and way too many games in the backlog.
 
 <p>
   <a href="https://www.linkedin.com/in/leonardoleonh/">LinkedIn</a> ·
-  <a href="mailto:leo.dleon55@gmail.com">Email</a> ·
+  <a href="mailto:leo.lglh@gmail.com">Email</a> ·
   <a href="https://ko-fi.com/leoleon_">Ko-fi</a>
 </p>
