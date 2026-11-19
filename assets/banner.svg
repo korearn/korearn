@@ -319,7 +319,7 @@
 <text x="260" y="220" fill="#7dcfff" font-size="15" font-weight="bold" text-anchor="start" >focus</text>
 <text x="350" y="220" fill="#c0caf5" font-size="15" font-weight="normal" text-anchor="start" >multi-agent systems · LLMs on my own hardware <tspan fill="#565f89">· remote</tspan></text>
 <text x="260" y="244" fill="#7dcfff" font-size="15" font-weight="bold" text-anchor="start" >where</text>
-<text x="350" y="244" fill="#c0caf5" font-size="15" font-weight="normal" text-anchor="start" >Mazatlán, Sinaloa · MX</text>
+<text x="350" y="244" fill="#c0caf5" font-size="15" font-weight="normal" text-anchor="start" >Mexico</text>
 <text x="260" y="268" fill="#7dcfff" font-size="15" font-weight="bold" text-anchor="start" >now</text>
 <text x="350" y="268" fill="#c0caf5" font-size="15" font-weight="normal" text-anchor="start" ><tspan fill="#bb9af7">toolcall-bench</tspan> — tool-calling evals for local LLMs</text>
 <text x="260" y="292" fill="#7dcfff" font-size="15" font-weight="bold" text-anchor="start" >stack</text>
